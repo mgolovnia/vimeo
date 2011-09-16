@@ -8,7 +8,7 @@ gem 'mocha', ">= 0.9.8"
 
 require 'shoulda'
 require 'fakeweb'
-require 'Crack'
+require 'crack'
 require 'mocha'
 require 'ruby-prof'
 
